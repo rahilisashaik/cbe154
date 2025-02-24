@@ -1,12 +1,4 @@
-% Model,1SCFM HT COMSOL.mph,
-% Version,COMSOL 6.2.0.290,
-% Date,"Feb 23 2025, 16:25",
-% Dimension,2,
-% Nodes,805,
-% Expressions,1,
-% Description,Temperature,
-% Length unit,m,
-% r,z,T (K)
+r,z,T (K)
 0.001092321375,-0.008912130079,313.0917556
 0,-0.01,293.6
 0.00159,-0.01,293.6
