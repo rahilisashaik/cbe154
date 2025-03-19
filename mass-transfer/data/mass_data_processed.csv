@@ -1,4 +1,4 @@
-temperature,time,mass,time,mass,delta_mass
+temperature,time_min,mass,time_sec,mass_kg,delta_mass
 140,0,80,0,0.08,
 140,3,72,180,0.072,-0.008
 140,6,66,360,0.066,-0.006

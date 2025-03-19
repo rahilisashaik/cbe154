@@ -1,4 +1,4 @@
-temperature,distance,relative_humidity,air_velocity,temperature
+heater_temp,distance,relative_humidity,air_velocity,temperature_ane
 140,4,25.3,420,84.2
 140,8,25.3,,84.2
 140,12,25.3,322,84.2
