@@ -1,12 +1,4 @@
-% Model,MT COMSOL Model COMPLETED.mph
-% Version,COMSOL 6.2.0.290
-% Date,"Apr 8 2025, 15:07"
-% Dimension,2
-% Nodes,18337
-% Expressions,2
-% Description,"Temperature, Concentration"
-% Length unit,m
-% x,y,T (K),c (mol/m^3)
+x,y,T,c
 0,2.1796056062380834E-4,323.20556,0
 0,1.1948993910576588E-4,323.20556,0
 1.608458222676177E-4,1.9488598608489533E-4,323.16072904649246,0.005841710267883482
