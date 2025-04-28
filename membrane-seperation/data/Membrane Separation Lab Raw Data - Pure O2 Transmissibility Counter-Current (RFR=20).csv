@@ -1,28 +1,10 @@
-retentate pressure (psig),feed pressure (psig),retentate oxygen purity (%),permeate flow rate (SLPM),Temperature,retentate pressure (Pa),feed pressure (Pa),permeate flow rate (m³/s),permeate molar flow rate (mol/s),permeate molar flux (mol/(m² s)),,,,
-8,10,97.4,1.6,64.5,5.52E+04,,2.67E-05,1.19E-03,1.45E-04,,,,
-18,20,97.8,4.6,64.8,1.24E+05,,7.68E-05,3.42E-03,4.18E-04,,,slope,int
-28,30,97.9,8.2,65,1.93E+05,,1.37E-04,6.10E-03,7.45E-04,,,3.72E-09,-1.15E-05
-38.3,40,97.9,10.8,65.3,2.64E+05,,1.80E-04,8.04E-03,9.81E-04,,std,9.48E-11,3.57E-05
-47.9,50,94.8,13.5,65.5,3.30E+05,,2.25E-04,1.00E-02,1.23E-03,,r^2,9.95E-01,5.08E-05
-58.3,60,98.1,17.3,65.7,4.02E+05,,2.89E-04,1.29E-02,1.57E-03,,,1.54E+03,7.00E+00
-68.4,70,98.2,19.4,65.8,4.72E+05,,3.24E-04,1.44E-02,1.76E-03,,,3.97E-06,1.81E-08
-78.1,80,98.4,21.6,66,5.38E+05,,3.61E-04,1.61E-02,1.96E-03,,,,
-88.3,90,98.4,24.1,66.1,6.09E+05,,4.02E-04,1.79E-02,2.19E-03,,,,
-,,,,,,,,,,,Transmissibility (mol/(m² s Pa)),,
-,,,,,,,,,,,3.72E-09,,
-,,,,,,,,,,,uncertainty,,
-,,,,,,,, surface area (m^2),,,9E-11,,
-,,,,,,,,8.1871,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-,,,,,,,,,,,,,
-uncertainty,retentate pressure (psig),feed pressure (psig),retentate oxygen purity (%),permeate oxygen purity,feed flow rate (sho-rate),permeate flow rate (SLPM),,,,,,,
-,0.2,0.2,0.1,0.1,5,0.1,,,,,,,
+retentate pressure (psig),feed pressure (psig),retentate oxygen purity (%),permeate flow rate (SLPM),Temperature,retentate pressure (Pa),feed pressure (Pa),permeate flow rate (m³/s),permeate molar flow rate (mol/s),permeate molar flux (mol/(m² s))
+8,10,97.4,1.6,64.5,5.52E+04,,2.67E-05,1.19E-03,1.45E-04
+18,20,97.8,4.6,64.8,1.24E+05,,7.68E-05,3.42E-03,4.18E-04
+28,30,97.9,8.2,65,1.93E+05,,1.37E-04,6.10E-03,7.45E-04
+38.3,40,97.9,10.8,65.3,2.64E+05,,1.80E-04,8.04E-03,9.81E-04
+47.9,50,94.8,13.5,65.5,3.30E+05,,2.25E-04,1.00E-02,1.23E-03
+58.3,60,98.1,17.3,65.7,4.02E+05,,2.89E-04,1.29E-02,1.57E-03
+68.4,70,98.2,19.4,65.8,4.72E+05,,3.24E-04,1.44E-02,1.76E-03
+78.1,80,98.4,21.6,66,5.38E+05,,3.61E-04,1.61E-02,1.96E-03
+88.3,90,98.4,24.1,66.1,6.09E+05,,4.02E-04,1.79E-02,2.19E-03
