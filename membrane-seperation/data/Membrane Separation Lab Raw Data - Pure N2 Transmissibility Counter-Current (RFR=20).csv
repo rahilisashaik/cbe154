@@ -1,0 +1,15 @@
+retentate pressure (psig),feed pressure (psig),retentate oxygen purity (%),permeate oxygen purity,permeate flow rate (SLPM),Temperature,retentate pressure (Pa),feed pressure (Pa),permeate flow rate (m³/s),permeate molar flow rate (mol/s),permeate molar flux (mol/(m² s)),,,,
+9,10,0,0,-0.3,67,6.21E+04,,,-2.23E-04,-2.73E-05,,,slope,int
+18.9,20,0,0,0,67.2,1.30E+05,,,0.00E+00,0.00E+00,,,5.11E-10,-7.16E-05
+28.7,30,0,0,0.3,67.4,1.98E+05,,,2.23E-04,2.73E-05,,std,1.82E-11,6.96E-06
+39.2,40,0,0,0.6,67.5,2.70E+05,,,4.46E-04,5.45E-05,,r^2,9.91E-01,9.75E-06
+48.9,50,0,0,1,67.7,3.37E+05,,,7.44E-04,9.09E-05,,,7.85E+02,7.00E+00
+59,60,0,0,1.4,67.8,4.07E+05,,,1.04E-03,1.27E-04,,,7.47E-08,6.66E-10
+68.9,70,0,0,1.9,67.9,4.75E+05,,,1.41E-03,1.73E-04,,,,
+79,80,0,0,2.3,68,5.45E+05,,,1.71E-03,2.09E-04,,,,
+89.1,90,0,0,2.8,68.1,6.14E+05,,,2.08E-03,2.54E-04,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,Transmissibility (mol/(m² s Pa)),,
+,,,,,,,,,,,,5.1E-10,,
+,,,,,,,,,surface area (m^2),,,uncertainty,,
+,,,,,,,,,8.1871,,,2E-11,,
