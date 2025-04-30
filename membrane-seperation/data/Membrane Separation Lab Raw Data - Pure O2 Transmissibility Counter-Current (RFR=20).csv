@@ -1,4 +1,4 @@
-retentate pressure (psig),feed pressure (psig),retentate oxygen purity (%),permeate flow rate (SLPM),Temperature,retentate pressure (Pa),feed pressure (Pa),permeate flow rate (m³/s),permeate molar flow rate (mol/s),permeate molar flux (mol/(m² s))
+retentate pressure (psi),feed pressure (psi),retentate oxygen purity (%),permeate flow rate (SLPM),Temperature,retentate pressure (Pa),feed pressure (Pa),permeate flow rate (m³/s),permeate molar flow rate (mol/s),permeate molar flux (mol/(m² s))
 8,10,97.4,1.6,64.5,5.52E+04,,2.67E-05,1.19E-03,1.45E-04
 18,20,97.8,4.6,64.8,1.24E+05,,7.68E-05,3.42E-03,4.18E-04
 28,30,97.9,8.2,65,1.93E+05,,1.37E-04,6.10E-03,7.45E-04
