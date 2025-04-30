@@ -1,4 +1,4 @@
-retentate pressure (psig),feed pressure (psig),retentate oxygen purity (%),permeate oxygen purity,feed flow rate (sho-rate),permeate flow rate (SLPM),Temperature
+retentate pressure (psi),feed pressure (psi),retentate oxygen purity (%),permeate oxygen purity,feed flow rate (sho-rate),permeate flow rate (SLPM),Temperature
 8.1,10,90.4,95.2,20,1,70.9
 18,20,90.2,95.4,,4.6,71.4
 28,30,90,95.5,19,7.8,71.6
